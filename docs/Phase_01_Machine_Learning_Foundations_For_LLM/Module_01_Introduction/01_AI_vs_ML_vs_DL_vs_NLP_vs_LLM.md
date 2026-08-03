@@ -96,3 +96,115 @@ ML learns spam patterns.
 ↓
 
 Filters spam automatically.
+
+DEEP LEARNING
+automatically learn features and patterns from large amounts of data using neural networks.
+
+BLOCK DIAGRAM
+                  Deep Learning
+                        │
+        ┌───────────────┴───────────────┐
+        │                               │
+        ▼                               ▼
+      Raw Data                  Neural Network
+                                        │
+                                        ▼
+                            Multiple Hidden Layers
+                                        │
+                                        ▼
+                             Learn Complex Features
+                                        │
+                                        ▼
+                                 Prediction
+
+WORKING DIAGRAM
+Raw Data
+      │
+      ▼
+Input Layer
+      │
+      ▼
+Hidden Layers
+      │
+      ▼
+Automatically Learn Features
+      │
+      ▼
+Output Layer
+      │
+      ▼
+Prediction
+
+EXAMPLE:           User Prompt
+                     │
+                     ▼
+          Deep Learning Model
+        (Transformer Network)
+                     │
+                     ▼
+       Learns Language Patterns
+                     │
+                     ▼
+          Predicts Next Token
+                     │
+                     ▼
+          Generates Response
+
+NATURAL LANGUAGE PROCESSING
+NLP teaches computers to understand and communicate using human language.
+
+BLOCK DIAGRAM
+               Human Language
+             (Text / Speech)
+                     │
+                     ▼
+          Natural Language Processing
+                     │
+      ┌──────────────┼──────────────┐
+      │              │              │
+      ▼              ▼              ▼
+ Understand     Analyze Meaning   Generate Text
+                     │
+                     ▼
+              Perform NLP Task
+                     │
+                     ▼
+        Translation / Chatbot / Search
+
+WORKING
+User Input
+"Best restaurants near me"
+          │
+          ▼
+     Text Processing
+          │
+          ▼
+ Understand Meaning
+(Intent + Context)
+          │
+          ▼
+ Find Relevant Information
+          │
+          ▼
+ Generate Result
+          │
+          ▼
+Display Nearby Restaurants
+
+PRACTICAL EXAMPLE(CHATGPT)
+User Prompt
+"What is Machine Learning?"
+          │
+          ▼
+       NLP System
+          │
+Understands Language
+          │
+          ▼
+ Finds Context
+          │
+          ▼
+ Generates Response
+          │
+          ▼
+Displays Answer
