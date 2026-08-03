@@ -208,3 +208,69 @@ Understands Language
           │
           ▼
 Displays Answer
+
+LARGE LANGUAGE MODEL
+
+
+
+BLOCK DIAGRAM
+                  Large Language Model (LLM)
+                           │
+                 User Prompt / Question
+                           │
+                           ▼
+                     Tokenization
+                           │
+                           ▼
+                  Transformer Model
+                           │
+         Understands Context & Patterns
+                           │
+                           ▼
+                Predicts Next Token
+                           │
+                           ▼
+                 Generates Response
+                           │
+                           ▼
+                    Final Output
+
+WORKING
+
+User Prompt
+"Explain Machine Learning"
+          │
+          ▼
+Tokenization
+(Break sentence into tokens)
+          │
+          ▼
+Transformer
+(Understands context)
+          │
+          ▼
+Next Token Prediction
+          │
+          ▼
+Response Generation
+          │
+          ▼
+Machine Learning is a subset of AI...
+
+ EXAMPLE:
+Developer Writes Code
+         │
+         ▼
+   Tokenization
+         │
+         ▼
+Transformer-based LLM
+         │
+         ▼
+Understands Context
+         │
+         ▼
+Predicts Next Token
+         │
+         ▼
+Code Completion
