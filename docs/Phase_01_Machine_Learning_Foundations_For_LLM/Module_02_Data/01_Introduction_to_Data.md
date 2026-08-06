@@ -17,3 +17,22 @@ BLOCK DIAGRAM
                        │
                        ▼
               Intelligent Output
+
+WORKING
+
+Collect Data
+      │
+      ▼
+Process Data
+      │
+      ▼
+Train AI Model
+      │
+      ▼
+Learn Patterns
+      │
+      ▼
+Generate Predictions
+      │
+      ▼
+Continuous Improvement
