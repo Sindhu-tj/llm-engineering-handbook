@@ -1,0 +1,1 @@
+"Data is the foundation of Artificial Intelligence. Every AI system, from a simple spam filter to advanced Large Language Models like Llama, GPT, Gemini, and Claude, learns patterns from data. Without data, AI cannot learn, make predictions, or generate intelligent responses."
