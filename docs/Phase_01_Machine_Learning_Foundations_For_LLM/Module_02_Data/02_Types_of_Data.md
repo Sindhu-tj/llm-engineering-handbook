@@ -50,3 +50,34 @@ SQL Database
       │
       ▼
 Structured Data
+
+### LLM Perspective
+
+Structured data is important in LLM applications when the model needs to access information stored in databases, APIs, or other structured sources.
+
+For example, an LLM-powered customer support system can retrieve customer or order information from a SQL database and use that information to generate a natural-language response.
+
+BLOCK DIAGRAM
+
+                 User Question
+                       │
+                       ▼
+                LLM Application
+                       │
+                       ▼
+                 SQL Query
+                       │
+                       ▼
+                  Database
+                       │
+                       ▼
+                Structured Data
+                       │
+                       ▼
+                 Query Result
+                       │
+                       ▼
+                     LLM
+                       │
+                       ▼
+            Natural Language Answer
