@@ -335,3 +335,11 @@ Search / Analysis / Generation
         │
         ▼
       Output
+
+Characteristics
+
+1.No Fixed Schema: It does not follow a predefined schema or fixed set of fields.
+2.Multiple Formats: It can exist as text, documents, images, audio, video, and other digital content.
+3.Flexible Structure: Different sources can contain different formats and types of information.
+4.Rich Content: It can contain text, tables, images, metadata, and other contextual information.
+5.Requires Processing: It usually needs preprocessing or specialized AI techniques before it can be effectively searched, analyzed, or used by an LLM.
