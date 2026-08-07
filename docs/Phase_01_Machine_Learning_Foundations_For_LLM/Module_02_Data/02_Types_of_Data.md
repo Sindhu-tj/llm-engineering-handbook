@@ -9,3 +9,15 @@ In AI and LLM Engineering, the three major categories are:
 - Structured Data
 - Semi-Structured Data
 - Unstructured Data
+
+                         DATA
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+     Structured      Semi-Structured   Unstructured
+          │                │                │
+       Tables           JSON / XML       Text / Images
+       SQL              HTML             Audio / Video
+
+       Data can be broadly classified into three major categories based on its level of organization: structured, semi-structured, and unstructured data.
