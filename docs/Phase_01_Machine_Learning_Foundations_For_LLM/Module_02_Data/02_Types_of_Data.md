@@ -283,3 +283,55 @@ Consider a company storing its internal knowledge in different types of document
                            │
                            ▼
                   Unstructured Data
+
+Why It Matters
+
+Add this:
+
+Unstructured data is important for LLM engineering because much of the knowledge used by modern AI applications exists in documents, text, images, audio, and video rather than traditional databases. Processing this data allows AI systems to retrieve relevant information, understand context, and generate useful responses.
+
+Unstructured Data
+        │
+        ▼
+     Processing
+        │
+        ▼
+Information Extraction
+        │
+        ▼
+ AI / LLM Application
+        │
+        ▼
+Search / Analysis / Generation
+        │
+        ▼
+      Output
+
+WHY IT MATTERS
+
+Unstructured data is important in LLM engineering because a large amount of real-world and enterprise knowledge exists in documents, text, images, audio, and video rather than structured databases.
+
+It is commonly used for:
+
+Building RAG applications
+Enterprise knowledge assistants
+Semantic search
+Document understanding and analysis
+Multimodal AI applications
+
+Unstructured Data
+        │
+        ▼
+    Processing
+        │
+        ▼
+Information Extraction
+        │
+        ▼
+   AI / LLM
+        │
+        ▼
+Search / Analysis / Generation
+        │
+        ▼
+      Output
