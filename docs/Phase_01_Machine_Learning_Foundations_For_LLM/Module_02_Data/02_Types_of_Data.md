@@ -343,3 +343,58 @@ Characteristics
 3.Flexible Structure: Different sources can contain different formats and types of information.
 4.Rich Content: It can contain text, tables, images, metadata, and other contextual information.
 5.Requires Processing: It usually needs preprocessing or specialized AI techniques before it can be effectively searched, analyzed, or used by an LLM.
+
+WORKING
+
+Unstructured data usually needs to be ingested, extracted, processed, and transformed before an AI or LLM application can effectively use it.
+
+Unstructured Data
+        │
+        ▼
+   Data Ingestion
+        │
+        ▼
+Content Extraction
+        │
+        ▼
+Cleaning / Preprocessing
+        │
+        ▼
+   Data Processing
+        │
+        ▼
+AI / LLM Application
+        │
+        ▼
+Search / Analysis / Generation
+        │
+        ▼
+      Output
+
+EXAMPLE:
+
+PDF Document
+      │
+      ▼
+Extract Text
+      │
+      ▼
+Clean / Preprocess
+      │
+      ▼
+Chunk Content
+      │
+      ▼
+Create Embeddings
+      │
+      ▼
+Store / Index
+      │
+      ▼
+Retrieve Relevant Information
+      │
+      ▼
+      LLM
+      │
+      ▼
+   Final Answer
