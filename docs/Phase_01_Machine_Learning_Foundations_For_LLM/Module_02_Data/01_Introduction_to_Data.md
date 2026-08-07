@@ -36,3 +36,40 @@ Generate Predictions
       │
       ▼
 Continuous Improvement
+
+REAL WORLD EXAMPLE:
+
+CHATGPT
+User Prompt
+      │
+      ▼
+Input Data
+      │
+      ▼
+Tokenization
+      │
+      ▼
+LLM
+      │
+      ▼
+Response
+
+COMPANY LEVEL EXAMPLE:
+META
+Books
+Code
+Research Papers
+      │
+      ▼
+Cleaning
+      │
+      ▼
+Tokenization
+      │
+      ▼
+Llama Training
+      │
+      ▼
+Llama Model
+
+Explain how meta uses data.
