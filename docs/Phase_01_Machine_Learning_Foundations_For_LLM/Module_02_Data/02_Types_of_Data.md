@@ -28,29 +28,6 @@ In AI and LLM Engineering, the three major categories are:
 
 Structured data is data organized according to a predefined schema, usually in rows and columns, where each field has a specific meaning and data type.
 
-EXAMPLE:
-Customer_ID | Name  | Age | Country
-------------|-------|-----|--------
-C001        | Ravi  | 25  | India
-C002        | Anu   | 28  | India
-C003        | John  | 31  | USA
-
-REAL WORLD EXAMPLE:
-
-Banking System
-      │
-      ▼
-Customer Records
-      │
-      ▼
-Transactions
-      │
-      ▼
-SQL Database
-      │
-      ▼
-Structured Data
-
 ### LLM Perspective
 
 Structured data is important in LLM applications when the model needs to access information stored in databases, APIs, or other structured sources.
@@ -201,7 +178,6 @@ Common examples include JSON, XML, HTML, and application logs.
 
 A JSON object:
 
-```json
 {
   "customer_id": "C101",
   "name": "Ravi",
