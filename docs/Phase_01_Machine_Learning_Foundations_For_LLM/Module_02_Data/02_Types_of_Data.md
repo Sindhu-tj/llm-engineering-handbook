@@ -161,36 +161,22 @@ User / Application
         ▼
       Output
 
-### Example
+### Real-World Example
 
-Consider an enterprise AI assistant that needs to answer questions about customers, products, and business transactions.
+**Banking System**
 
-These business records can be stored as structured data in relational databases.
+Banks use structured databases to store customer information, account details, transactions, loan records, and payment history.
 
-                    Enterprise AI Assistant
-                              │
-                              ▼
-                       User Question
-                              │
-                              ▼
-                       LLM Application
-                              │
-                    ┌─────────┴─────────┐
-                    │                   │
-                    ▼                   ▼
-              SQL Database          Other Tools
-                    │
-                    ▼
-             Structured Data
-                    │
-                    ▼
-              Query / Retrieval
-                    │
-                    ▼
-               Relevant Data
-                    │
-                    ▼
-                    LLM
-                    │
-                    ▼
-          Natural Language Response
+Customer / Transaction Data
+            │
+            ▼
+      Structured Database
+            │
+            ▼
+        SQL Queries
+            │
+            ▼
+    Business Operations
+            │
+            ▼
+ Reports / Analytics / AI
