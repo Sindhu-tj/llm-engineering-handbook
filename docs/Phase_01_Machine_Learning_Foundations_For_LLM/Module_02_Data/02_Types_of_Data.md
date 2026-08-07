@@ -211,3 +211,61 @@ A JSON object:
     "amount": 8500
   }
 }
+
+### Characteristics
+
+The main characteristics of semi-structured data are:
+
+- **Flexible Schema:** The structure can change without requiring a fixed table schema.
+- **Key-Value Structure:** Data is commonly represented using keys and values.
+- **Nested Data:** Objects can contain other objects, arrays, or multiple levels of information.
+- **Self-Describing:** Keys, tags, and metadata provide information about the data.
+- **Machine Readable:** Applications can easily parse and process the data.
+- **API Friendly:** JSON is widely used to exchange data between applications and services.
+
+### Working
+
+Semi-structured data is created, exchanged, stored, and processed using a flexible structure such as JSON, XML, or application logs.
+
+Data Generation
+      │
+      ▼
+Structured Using Keys / Tags
+      │
+      ▼
+JSON / XML / Logs
+      │
+      ▼
+API / Application
+      │
+      ▼
+Parse / Process Data
+      │
+      ▼
+Application Result
+
+### Practical Engineering Perspective
+
+Semi-structured data is widely used in modern software systems because applications need to exchange flexible data through APIs and services.
+
+A common engineering workflow is:
+
+Application
+     │
+     ▼
+   API Request
+     │
+     ▼
+ JSON Data
+     │
+     ▼
+ Parse / Validate
+     │
+     ▼
+Application Logic
+     │
+     ▼
+Database / Service / LLM
+     │
+     ▼
+   Result
