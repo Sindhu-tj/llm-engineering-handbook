@@ -180,3 +180,34 @@ Customer / Transaction Data
             │
             ▼
  Reports / Analytics / AI
+
+ ## 2. Semi-Structured Data
+
+### Definition
+
+Semi-structured data is data that does not follow a strict tabular schema like structured data, but still contains organizational information such as keys, tags, attributes, or metadata.
+
+It provides some structure while allowing different records to have different fields.
+
+### Simple Explanation
+
+Semi-structured data is more flexible than structured data.
+
+Instead of requiring every record to have exactly the same columns, it uses elements such as keys, tags, and nested objects to organize information.
+
+Common examples include JSON, XML, HTML, and application logs.
+
+### Example
+
+A JSON object:
+
+```json
+{
+  "customer_id": "C101",
+  "name": "Ravi",
+  "order": {
+    "order_id": "ORD1001",
+    "status": "Shipped",
+    "amount": 8500
+  }
+}
