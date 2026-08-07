@@ -245,3 +245,41 @@ Database / Service / LLM
      │
      ▼
    Result
+
+   ## 3. Unstructured Data
+
+### Definition
+
+Unstructured data is data that does not follow a predefined tabular schema or fixed structure. It can contain information in forms such as natural-language text, documents, images, audio, and video.
+
+Unlike structured data, unstructured data is not organized into fixed rows and columns with predefined fields.
+
+For example, a PDF document may contain paragraphs, headings, tables, images, and other information. This content cannot be directly represented as a simple database table without processing it first.
+
+Common examples include:
+
+- PDF documents
+- Text documents
+- Emails
+- Web pages
+- Images
+- Audio
+- Video
+- Scanned documents
+
+### Example
+
+Consider a company storing its internal knowledge in different types of documents:
+
+```text
+                    Company Knowledge
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      PDF Files       Text Documents    Web Pages
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                  Unstructured Data
