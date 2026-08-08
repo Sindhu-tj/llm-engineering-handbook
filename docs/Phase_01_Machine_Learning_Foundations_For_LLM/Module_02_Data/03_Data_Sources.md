@@ -10,3 +10,13 @@ MAJOR DATA SOURCES
    Databases        APIs    Files    Web Data     Applications
        │              │       │        │              │
     SQL/NoSQL      JSON    PDF/CSV   Websites     Logs/Events
+
+1. DATA BASES
+A database is a system used to store, organize, manage, and retrieve data efficiently.
+
+COMMON TYPES
+SQL: MySQL, PostgreSQL, SQLite
+NoSQL: MongoDB, DynamoDB, Redis
+
+LLM ENGINEER PERSPECTIVE
+LLM applications use databases when they need access to structured, application-specific, or frequently updated information.
