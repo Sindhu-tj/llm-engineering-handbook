@@ -20,3 +20,52 @@ NoSQL: MongoDB, DynamoDB, Redis
 
 LLM ENGINEER PERSPECTIVE
 LLM applications use databases when they need access to structured, application-specific, or frequently updated information.
+
+User Question
+      │
+      ▼
+LLM Application
+      │
+      ▼
+Database Query
+      │
+      ▼
+Relevant Data
+      │
+      ▼
+LLM
+      │
+      ▼
+Final Response
+
+REAL WORLD EXAMPLE
+An enterprise support assistant retrieves a customer's order status from a database and uses the result to answer the customer's question.
+
+2.APIs
+An API (Application Programming Interface) allows one software system to communicate with another and exchange data or perform operations.
+
+Common Formats
+JSON
+XML
+
+LLM ENGINEER PERSPECTIVE
+
+LLM Application
+      │
+      ▼
+   API Request
+      │
+      ▼
+External Service
+      │
+      ▼
+  API Response
+      │
+      ▼
+LLM / Application
+      │
+      ▼
+Final Result
+
+REAL WORLD EXAMPLE
+An AI assistant calls a company's CRM API to retrieve customer information before generating a response.
