@@ -1,0 +1,1 @@
+Data sources are the places or systems from which data is collected, accessed, or retrieved for processing, analysis, Machine Learning, and LLM applications.
