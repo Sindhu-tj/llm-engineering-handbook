@@ -1,0 +1,1 @@
+Data storage is the process of storing collected data in a suitable system so that it can be securely maintained, managed, accessed, and retrieved when required.
