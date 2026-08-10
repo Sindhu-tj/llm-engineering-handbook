@@ -8,3 +8,31 @@ Range: Are values within valid limits?
 Schema: Does the data match the expected structure?
 Duplicates: Are unwanted duplicate records present?
 Consistency: Does the data follow the required rules?
+
+PRACTIAL LLM EXAMPLE
+Before documents enter an enterprise RAG pipeline:
+Collected Documents
+        │
+        ▼
+  Data Validation
+        │
+        ├── Valid file format?
+        ├── Content present?
+        ├── Required metadata?
+        ├── Valid structure?
+        └── Duplicate document?
+        │
+        ▼
+  Validated Data
+        │
+        ▼
+ Data Processing
+        │
+        ▼
+      RAG
+        │
+        ▼
+      LLM
+
+Why It Matters
+Validation prevents invalid, corrupted, incomplete, or incorrectly formatted data from entering downstream AI/LLM pipelines.
