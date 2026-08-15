@@ -185,3 +185,7 @@ Contract_Yearly = 1
 Payment_CreditCard = 1
    ↓
 ML Model
+
+FEATURE SELECTION
+Feature Selection is the process of selecting the most relevant features from a dataset and removing irrelevant or redundant features before training a machine-learning model.
+
