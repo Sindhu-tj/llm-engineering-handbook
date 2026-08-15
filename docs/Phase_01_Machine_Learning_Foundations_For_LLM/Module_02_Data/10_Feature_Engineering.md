@@ -58,3 +58,26 @@ Select Important Features
 Final ML Dataset
    ↓
 Train Model
+
+
+FEATURE CREATION
+Feature creation means creating a new feature from existing features to give the ML model more useful information.
+
+Practical example
+Suppose we have:
+
+Monthly Income = ₹30,000
+Months = 12
+Total Spending = ₹60,000
+
+We can create:
+1. Annual Income
+Annual Income = Monthly Income × 12
+              = ₹30,000 × 12
+              = ₹3,60,000
+2. Average Monthly Spending
+Average Monthly Spending = Total Spending ÷ Months
+                         = ₹60,000 ÷ 12
+                         = ₹5,000
+3. Spending-to-Income Ratio
+Spending Ratio = Monthly Spending ÷ Monthly Income
