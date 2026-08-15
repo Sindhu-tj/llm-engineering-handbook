@@ -291,3 +291,21 @@ Examples:
 L1/Lasso regularization
 Decision Trees
 Random Forests
+
+          Professional Workflow
+          
+             Dataset
+                ↓
+        Separate X and y
+                ↓
+       Identify candidate features
+                ↓
+    Remove irrelevant/redundant features
+                ↓
+       Apply selection method
+                ↓
+        Selected features
+                ↓
+          Train ML model
+                ↓
+         Evaluate model
