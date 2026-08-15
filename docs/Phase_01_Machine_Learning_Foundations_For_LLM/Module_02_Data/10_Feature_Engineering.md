@@ -81,3 +81,36 @@ Average Monthly Spending = Total Spending ÷ Months
                          = ₹5,000
 3. Spending-to-Income Ratio
 Spending Ratio = Monthly Spending ÷ Monthly Income
+
+Simple industry example
+For customer churn prediction:
+
+Existing Features
+       ↓
+Monthly Charges
+Tenure
+Total Charges
+       ↓
+Feature Creation
+       ↓
+Average Monthly Charges
+Customer Lifetime Value
+Charges per Month
+       ↓
+ML Model
+       ↓
+Churn Prediction
+
+FEATURE TRANSFORMATION
+Feature transformation means changing the format or scale of existing features so that the ML model can use them more effectively.
+
+Practical example: Scaling
+Suppose our dataset has:
+Age = 25
+Salary = ₹50,000
+
+The values are on very different scales:
+Age     → 25
+Salary  → 50000
+A model such as KNN, K-Means, or Logistic Regression can be affected by this difference.
+So we transform them into a common scale.
