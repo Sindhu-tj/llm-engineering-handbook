@@ -248,3 +248,46 @@ So instead of training the model with all available features:
 
 we train it with:
 7 selected features
+
+Why is this useful?
+Suppose you have:
+1000 features
+but only:
+100 features
+
+Using all 1000 features can make the model:
+
+more computationally expensive
+more complex
+more difficult to interpret
+more susceptible to noise
+potentially more prone to overfitting
+
+How do we select the features?
+There are three main approaches.
+
+1. Filter Methods
+Use statistical relationships between features and the target.
+
+Examples:
+Correlation
+Chi-square
+ANOVA
+Mutual Information
+These methods generally evaluate features before model training.
+
+2. Wrapper Methods
+Try different combinations of features and evaluate their effect on a machine-learning model.
+
+Examples:
+Forward Selection
+Backward Elimination
+Recursive Feature Elimination (RFE)
+
+3. Embedded Methods
+The model itself helps determine which features are important during training.
+
+Examples:
+L1/Lasso regularization
+Decision Trees
+Random Forests
