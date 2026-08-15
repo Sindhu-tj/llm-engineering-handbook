@@ -114,3 +114,32 @@ Age     → 25
 Salary  → 50000
 A model such as KNN, K-Means, or Logistic Regression can be affected by this difference.
 So we transform them into a common scale.
+
+Min-Max Scaling
+Formula:X_scaled = (X - X_min) / (X_max - X_min)
+The values are converted approximately into:0 to 1
+
+Other common transformations
+1. Standardization:Converts values using mean and standard deviation.
+Z = (X - Mean) / Standard Deviation
+Usually produces values centered around 0.
+
+2. Log Transformation:Useful when data is highly skewed.
+Income → log(Income)
+
+3. Normalization:Adjusts values to a common scale, depending on the normalization method.
+
+Industry example
+Raw Features
+     ↓
+Age: 25
+Income: 50000
+Spending: 120000
+     ↓
+Feature Transformation
+     ↓
+Scaled Age
+Scaled Income
+Scaled Spending
+     ↓
+ML Model
