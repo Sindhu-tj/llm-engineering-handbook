@@ -40,3 +40,21 @@ Step 3: Final dataset
 | A        |  25 |        ₹30,000 |     12 |     ₹3,60,000 |               ₹5,000 |
 | B        |  40 |        ₹50,000 |     24 |     ₹6,00,000 |               ₹5,000 |
 | C        |  35 |        ₹40,000 |     18 |     ₹4,80,000 |               ₹5,000 |
+
+Now the ML model has additional meaningful information that wasn't directly present in the original data.
+
+REAL INDUSTRY FLOW
+
+Raw Data
+   ↓
+Understand Features
+   ↓
+Create New Features
+   ↓
+Transform Features
+   ↓
+Select Important Features
+   ↓
+Final ML Dataset
+   ↓
+Train Model
