@@ -293,7 +293,7 @@ Decision Trees
 Random Forests
 
           Professional Workflow
-          
+
              Dataset
                 ↓
         Separate X and y
@@ -309,3 +309,153 @@ Random Forests
           Train ML model
                 ↓
          Evaluate model
+
+FEATURE EXTRACTION
+Feature Extraction is the process of transforming existing features or raw data into a smaller set of new, meaningful features (representations) that preserve the important information needed by a machine-learning model.
+Example — Customer Data
+
+Suppose a company has 100 numerical features about customers.
+
+Feature 1
+Feature 2
+Feature 3
+...
+Feature 100
+
+Using all 100 features may make the model more complex.
+
+With PCA (Principal Component Analysis), we can transform them into a smaller number of new features:
+
+100 Original Features
+        ↓
+       PCA
+        ↓
+10 New Components
+        ↓
+ML Model
+
+Important: those 10 components are new features. They are not simply 10 of the original columns.
+
+Example: Text Data
+
+Suppose we have customer reviews:
+
+"The product is excellent"
+"The product is terrible"
+"The service is excellent"
+
+A machine-learning model cannot directly process the sentences as raw text.
+Feature extraction can convert the text into numerical representations.
+
+For example:
+Raw Text
+   ↓
+Text Feature Extraction
+   ↓
+Numerical Representation
+   ↓
+ML Model
+
+Common approaches include:
+Bag of Words
+TF-IDF
+Word embeddings
+Sentence embeddings
+
+Main Feature Extraction Techniques
+
+1. PCA 
+PCA (Principal Component Analysis) reduces the number of numerical dimensions while attempting to preserve as much variance/information as possible.
+
+Example:
+50 Features
+     ↓
+    PCA
+     ↓
+10 Components
+
+2. Bag of Words 
+Used for text.
+It represents a document based on the frequency/count of words.
+
+Example:
+"I like AI"
+"I like ML"
+
+Vocabulary:
+AI
+I
+like
+ML
+Each sentence can then be represented numerically based on word occurrence.
+
+3. TF-IDF 
+TF-IDF (Term Frequency–Inverse Document Frequency) gives higher importance to words that are important in a document but less common across the entire collection.
+
+It is widely used as a traditional text representation technique.
+
+4. Embeddings for your LLM path
+Embeddings convert data such as text into dense numerical vectors that capture semantic information.
+
+For example:
+"How can I reset my password?"
+                ↓
+          Embedding Model
+                ↓
+[0.21, -0.73, 0.15, ...]
+
+Semantically similar text tends to have similar vector representations.
+
+This is extremely important for:
+
+RAG
+Semantic Search
+Vector Databases
+Document Retrieval
+Recommendation Systems
+Feature Selection vs Feature Extraction
+
+This distinction is very important for interviews.
+
+Feature Selection
+Selects a subset of the original features.
+
+Age
+Income
+Tenure
+Gender
+Location
+      ↓
+Selection
+      ↓
+Age
+Income
+Tenure
+
+The selected features remain unchanged.
+
+Feature Extraction
+Creates a new representation from the original information.
+
+100 Original Features
+        ↓
+       PCA
+        ↓
+10 New Components
+
+
+Professional Workflow
+
+Raw Data
+    ↓
+Understand Data
+    ↓
+Choose Extraction Technique
+    ↓
+Transform Data
+    ↓
+Generate New Representations
+    ↓
+Evaluate Information Loss / Model Performance
+    ↓
+Train ML Model
