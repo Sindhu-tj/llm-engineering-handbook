@@ -143,3 +143,45 @@ Scaled Income
 Scaled Spending
      ↓
 ML Model
+
+FEATURE ENCODING
+Feature encoding means converting categorical (text) data into numerical values so that a machine-learning model can understand it.
+
+Practical example
+Suppose we have:
+| Customer | Gender | Contract |
+| -------- | ------ | -------- |
+| A        | Male   | Monthly  |
+| B        | Female | Yearly   |
+| C        | Male   | Monthly  |
+The ML model cannot directly work with "Male", "Female", "Monthly", etc.So we encode them.
+
+1. Label Encoding
+Example:Male   → 0
+Female → 1
+Useful when categories have a meaningful order or for suitable binary categories.
+
+2. One-Hot Encoding
+For:Contract = Monthly, Yearly, Two-Year
+We create:
+Monthly  Yearly  Two-Year
+   1       0        0
+   0       1        0
+   0       0        1
+   There is no artificial ordering between the categories.
+
+Industry example
+For a customer churn model:
+Raw Data
+   ↓
+Gender = Female
+Contract = Yearly
+Payment = Credit Card
+   ↓
+Feature Encoding
+   ↓
+Gender_Female = 1
+Contract_Yearly = 1
+Payment_CreditCard = 1
+   ↓
+ML Model
