@@ -189,3 +189,73 @@ ML Model
 FEATURE SELECTION
 Feature Selection is the process of selecting the most relevant features from a dataset and removing irrelevant or redundant features before training a machine-learning model.
 
+Customer Churn Prediction
+
+Imagine a company wants to predict:
+
+Will this customer leave the company?
+
+This is our target variable:
+
+Churn
+
+The company has the following features:
+
+Age
+Tenure
+Monthly Charges
+Contract Type
+Payment Method
+Login Frequency
+Support Tickets
+Total Charges
+Customer ID
+Step 1 — Separate features and target
+Features (X):
+Age
+Tenure
+Monthly Charges
+Contract Type
+Payment Method
+Login Frequency
+Support Tickets
+Total Charges
+Customer ID
+
+
+Target (y):
+Churn
+Step 2 — Examine the features
+
+The ML engineer checks whether each feature provides useful information for predicting churn.
+
+For example:
+
+Customer ID
+
+is mainly an identifier.
+
+It doesn't describe the customer's behavior or characteristics in a meaningful way.
+
+So we don't want to use it as a predictive feature.
+
+Remove → Customer ID
+Step 3 — Select useful features
+
+After analysis, suppose the team determines that these features are useful:
+
+Tenure
+Monthly Charges
+Contract Type
+Payment Method
+Login Frequency
+Support Tickets
+Total Charges
+
+So instead of training the model with all available features:
+
+9 features
+
+we train it with:
+
+7 selected features
