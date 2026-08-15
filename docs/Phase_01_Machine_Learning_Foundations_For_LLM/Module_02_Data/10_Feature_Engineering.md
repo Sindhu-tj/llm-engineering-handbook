@@ -7,3 +7,10 @@ Suppose we have this customer dataset:
 | A        |  25 |        ₹30,000 |        ₹60,000 |     12 |
 | B        |  40 |        ₹50,000 |      ₹1,20,000 |     24 |
 | C        |  35 |        ₹40,000 |        ₹90,000 |     18 |
+
+Step 1: Raw features
+We already have:
+Age
+Monthly Income
+Total Spending
+Months
