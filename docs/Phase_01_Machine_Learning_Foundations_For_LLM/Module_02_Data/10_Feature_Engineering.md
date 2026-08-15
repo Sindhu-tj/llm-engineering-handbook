@@ -1,0 +1,1 @@
+Feature engineering means creating, transforming, or selecting useful features from raw data so that a machine-learning model can learn better patterns.
