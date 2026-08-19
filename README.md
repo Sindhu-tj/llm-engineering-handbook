@@ -28,6 +28,7 @@ The goal is to connect **theoretical foundations with practical engineering conc
 
 The handbook follows a progressive structure:
 
+
 AI / ML Fundamentals
         ↓
 Data Fundamentals
