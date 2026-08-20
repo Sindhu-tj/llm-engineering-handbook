@@ -7,3 +7,17 @@ In a real Machine Learning project, a dataset may contain many features, but not
 Feature selection helps us identify which existing features provide meaningful information to the model.
 
 For example, in a customer churn prediction problem:
+Customer Dataset
+       │
+       ├── Age                 → Keep
+       ├── Monthly Charges     → Keep
+       ├── Tenure              → Keep
+       ├── Contract Type       → Keep
+       ├── Customer ID         → Remove
+       └── Random ID           → Remove
+               │
+               ▼
+        Selected Features
+               │
+               ▼
+        Machine Learning Model
