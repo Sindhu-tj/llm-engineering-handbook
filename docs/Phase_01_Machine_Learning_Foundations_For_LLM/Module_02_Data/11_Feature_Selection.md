@@ -21,3 +21,16 @@ Customer Dataset
                │
                ▼
         Machine Learning Model
+
+The goal is not simply to select fewer features. The goal is to retain the features that are useful for the prediction task while removing features that are irrelevant, redundant, or potentially noisy.
+
+Why It Matters in Practice
+
+Feature selection can:
+
+Reduce unnecessary features
+Reduce noise and redundancy
+Reduce computational cost
+Make models easier to interpret
+Reduce model complexity
+Potentially improve generalization
