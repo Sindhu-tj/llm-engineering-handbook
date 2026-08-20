@@ -34,3 +34,6 @@ Reduce computational cost
 Make models easier to interpret
 Reduce model complexity
 Potentially improve generalization
+
+Common Approaches
+	
