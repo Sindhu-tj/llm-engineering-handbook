@@ -43,4 +43,23 @@ Common Approaches
 | **Wrapper**  | Test different feature subsets using a model    | RFE                                         |
 | **Embedded** | Selection happens during model training         | Lasso, Tree-based importance                |
 
-	
+	Practical Workflow
+    Raw Dataset
+     │
+     ▼
+Data Cleaning
+     │
+     ▼
+Feature Engineering
+     │
+     ▼
+Feature Selection
+     │
+     ▼
+Selected Features
+     │
+     ▼
+Model Training
+     │
+     ▼
+Model Evaluation
