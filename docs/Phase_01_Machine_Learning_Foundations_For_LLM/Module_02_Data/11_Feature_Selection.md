@@ -36,4 +36,11 @@ Reduce model complexity
 Potentially improve generalization
 
 Common Approaches
+
+| Approach     | Practical Idea                                  | Examples                                    |
+| ------------ | ----------------------------------------------- | ------------------------------------------- |
+| **Filter**   | Select features using statistical relationships | Correlation, Chi-square, Mutual Information |
+| **Wrapper**  | Test different feature subsets using a model    | RFE                                         |
+| **Embedded** | Selection happens during model training         | Lasso, Tree-based importance                |
+
 	
