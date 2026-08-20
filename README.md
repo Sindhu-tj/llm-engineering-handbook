@@ -51,7 +51,7 @@ Embeddings
         ↓
 Vector Databases
         ↓
-RAG
+       RAG
         ↓
 Fine-Tuning
         ↓
