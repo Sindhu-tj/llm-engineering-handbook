@@ -13,6 +13,7 @@ BLOCK DIAGRAM
  Recognition     Making
   
  WORKING 
+ 
              Input
               │
               ▼
@@ -28,6 +29,7 @@ BLOCK DIAGRAM
            Output
 
 EXAMPLE:
+
 Camera Image
       │
       ▼
