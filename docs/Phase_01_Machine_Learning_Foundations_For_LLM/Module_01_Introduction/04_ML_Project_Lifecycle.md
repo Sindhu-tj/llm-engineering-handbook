@@ -24,6 +24,7 @@
                    Monitoring & Continuous Improvement
 
 EXPLAINATION
+
 Business Problem
 ↓
 What problem are we solving?
