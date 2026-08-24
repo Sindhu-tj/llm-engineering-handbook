@@ -1,3 +1,4 @@
+
 1.STANDARD ML PIPELINE
 
 Business Problem
@@ -86,16 +87,16 @@ Feature Engineering
 Feature Store
          │
          ▼
-Ranking Model Training
+ Ranking Model Training
          │
          ▼
-Offline Evaluation
+ Offline Evaluation
          │
          ▼
-Model Registry
+ Model Registry
          │
          ▼
-A/B Testing
+  A/B Testing
          │
          ▼
 Production Deployment
