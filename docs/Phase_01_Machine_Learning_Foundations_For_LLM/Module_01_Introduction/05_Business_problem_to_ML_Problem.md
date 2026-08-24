@@ -35,7 +35,6 @@ BLOCK DIAGRAM
           Start ML Project Lifecycle
 
  Example 1 (Meta – Facebook Feed Ranking)
-
  Business Problem
 Users are not engaging enough
 with Facebook posts.
@@ -85,7 +84,6 @@ Precision
 False Positive Rate
 
 WORKFLOW:
-
 Business Team
 
 ↓
