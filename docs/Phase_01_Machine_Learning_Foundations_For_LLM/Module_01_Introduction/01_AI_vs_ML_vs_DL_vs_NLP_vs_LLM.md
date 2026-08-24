@@ -1,8 +1,10 @@
+
 #AI vs Machine Learning vs Deep leaning vs Natural Language Processing vs Large language model
 
 AI is a broad field that includes systems capable of learning,reasoning,perception,and language understanding.
 
 BLOCK DIAGRAM
+
                       Artificial Intelligence
                               │
       ┌─────────────┬──────────────┬──────────────┬
@@ -42,6 +44,7 @@ Traffic Light = RED
 Decision: STOP
   
 MACHINE LEARNING
+
 Machine Learning teaches computers to learn from data instead of following manually written rules.
 
 AI vs ML
@@ -67,6 +70,7 @@ BLOCK DIAGRAM
             Prediction / Decision
 
 WORKING DIAGRAM
+
 Training Data
       │
       ▼
@@ -100,6 +104,7 @@ ML learns spam patterns.
 Filters spam automatically.
 
 DEEP LEARNING
+
 automatically learn features and patterns from large amounts of data using neural networks.
 
 BLOCK DIAGRAM
@@ -120,6 +125,7 @@ BLOCK DIAGRAM
                                  Prediction
 
 WORKING DIAGRAM
+
 Raw Data
       │
       ▼
