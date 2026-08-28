@@ -26,10 +26,9 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 The goal is to connect **theoretical foundations with practical engineering concepts** used in real-world AI systems.
 
 
-## Learning Approach
+## LEARNING APPROCH
 
 The handbook follows a progressive structure:
-
 
 AI / ML Fundamentals
         ↓
