@@ -28,7 +28,7 @@ The goal is to connect **theoretical foundations with practical engineering conc
 
 ## LEARNING APPROCH
 
-The handbook follows a progressive structure:
+The handbook follows a progressive structure;
 
 AI / ML Fundamentals
         ↓
