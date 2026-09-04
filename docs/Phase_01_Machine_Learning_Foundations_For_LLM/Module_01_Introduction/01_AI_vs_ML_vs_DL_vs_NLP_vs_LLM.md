@@ -14,7 +14,7 @@ BLOCK DIAGRAM
   Pattern       Decision      Vision        Speech & Text
  Recognition     Making
   
- WORKING 
+ WORKING .
  
              Input
               │
