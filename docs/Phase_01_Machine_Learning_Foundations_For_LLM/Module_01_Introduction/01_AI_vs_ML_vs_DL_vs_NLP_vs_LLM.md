@@ -1,5 +1,5 @@
 
-#AI vs Machine Learning vs Deep leaning vs Natural Language Processing vs Large language model
+#AI vs Machine Learning vs Deep leaning vs Natural Language Processing vs Large language model.
 
 AI is a broad field that includes systems capable of learning,reasoning,perception,and language understanding.
 
