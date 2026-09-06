@@ -105,7 +105,7 @@ Filters spam automatically.
 
 DEEP LEARNING
 
-automatically learn features and patterns from large amounts of data using neural networks.
+automatically learn features and patterns from large amounts of data using neural networks
 
 BLOCK DIAGRAM
                   Deep Learning
