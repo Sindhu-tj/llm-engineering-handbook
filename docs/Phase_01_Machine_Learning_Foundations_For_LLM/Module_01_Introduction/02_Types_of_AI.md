@@ -13,7 +13,7 @@ AI CLASSIFICATION
                              Machine   Memory   of Mind Aware
 
 CAPABILITIES
-1.ANI:Artificial Narrow Intelligence.
+1.ANI:Artificial Narrow Intelligence
 
 BLOCK DIAGRAM
 
