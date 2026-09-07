@@ -102,7 +102,7 @@ Research Medicine Space Physics AI
 Best Possible Solution
 
 
-OVIEWVIEW:
+OVIEWVIEW
 
                     AI Based on Capabilities
                              │
