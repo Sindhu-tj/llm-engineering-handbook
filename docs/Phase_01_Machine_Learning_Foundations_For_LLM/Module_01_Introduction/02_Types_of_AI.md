@@ -60,7 +60,7 @@ Code Completion
           ▼
 Suggested Code
 
-2. AGI:Artificial General Intelligence.
+2. AGI:Artificial General Intelligence
 
 Imagine Meta creates one AI that can perform any human intellectual task.
 Any Problem
