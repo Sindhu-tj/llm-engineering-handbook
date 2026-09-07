@@ -33,7 +33,7 @@ Database Query
 Relevant Data
       │
       ▼
-LLM
+     LLM
       │
       ▼
 Final Response
