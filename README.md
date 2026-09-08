@@ -11,7 +11,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Core AI and Machine Learning concepts
 - Data and data pipelines
 - Transformers and Attention
-- Large Language Models
+- Large Language Models.
 - Prompt Engineering
 - Embeddings and Vector Databases
 - Retrieval-Augmented Generation (RAG)
