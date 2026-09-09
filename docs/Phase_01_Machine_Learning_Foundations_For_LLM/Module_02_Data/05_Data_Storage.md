@@ -98,7 +98,7 @@ Company Documents
                ↓
               LLM
 
-WHY IT MATTERS
+WHY IT MATTERS?
 Data storage is important because AI/LLM systems need reliable and scalable storage for documents, structured data, embeddings, metadata, and other information required during processing and retrieval.
 
 Persistence: Keeps data available after the application stops.
