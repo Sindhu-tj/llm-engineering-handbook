@@ -35,7 +35,7 @@ MySQL
 PostgreSQL
 MongoDB
 
-2.FILE STORAGE
+2.FILE STORAGE:
 Used for storing individual files and documents.
 
 Examples:
