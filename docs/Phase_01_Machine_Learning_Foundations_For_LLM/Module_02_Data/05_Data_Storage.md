@@ -60,7 +60,7 @@ Datasets
 LLM ENGINEER PERSPECTIVE
 Data storage is important in LLM applications because the system needs a reliable place to keep documents, datasets, embeddings, metadata, and other information required by the AI pipeline.
 
-EXAMPLE
+EXAMPLE:
 A RAG system may use object storage for original documents and a vector database for their embeddings.
 Documents
     │
