@@ -82,7 +82,7 @@ Retrieval
     ▼
    LLM
 
-PRATICAL INDUSTRY EXAMPLE
+PRATICAL INDUSTRY EXAMPLE:
 An enterprise AI assistant may store:
 Company Documents
        │
