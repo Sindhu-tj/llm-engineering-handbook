@@ -80,7 +80,7 @@ Vector Database
 Retrieval
     │
     ▼
-LLM
+   LLM
 
 PRATICAL INDUSTRY EXAMPLE
 An enterprise AI assistant may store:
