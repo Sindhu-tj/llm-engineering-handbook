@@ -11,7 +11,7 @@ MAJOR DATA SOURCES.
        │              │       │        │              │
     SQL/NoSQL      JSON    PDF/CSV   Websites     Logs/Events
 
-1. DATA BASES
+1. DATA BASES:
 A database is a system used to store, organize, manage, and retrieve data efficiently.
 
 COMMON TYPES
