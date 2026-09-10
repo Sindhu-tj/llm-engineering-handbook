@@ -8,6 +8,7 @@ COMMON COLLECTION METHODS
 5.Applications   → Logs / Events / User Interactions
 
 BASIC WORKFLOW
+
 Data Sources
      │
      ▼
@@ -24,6 +25,7 @@ AI / LLM Application
 
 PRACTICAL EXAMPLE
 Consider an enterprise RAG application that uses company documents:
+
 Company Documents
        │
        ▼
@@ -42,4 +44,4 @@ Data Processing
 RAG Pipeline
        │
        ▼
-LLM
+     LLM
