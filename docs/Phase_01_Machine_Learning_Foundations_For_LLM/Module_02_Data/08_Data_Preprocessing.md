@@ -1,6 +1,7 @@
 Data preprocessing is the process of cleaning, transforming, and preparing raw data into a suitable format before it is used by an AI, Machine Learning, or LLM system.
 
 Preprocessing converts this raw data into clean and usable data.
+
 Raw Data
    │
    ▼
@@ -18,7 +19,7 @@ Clean / Prepared Data
    ▼
 AI / ML / LLM System
 
-Common Data Preprocessing Operations
+Common Data Preprocessing Operations:
 Data Cleaning: Remove or correct incorrect and unwanted data.
 Missing Value Handling: Identify and handle missing information.
 Deduplication: Remove duplicate records or content.
@@ -86,5 +87,5 @@ Chunking → Embeddings → Vector Database
        ▼
 RAG → LLM
 
-WHY IT MATTERS
+WHY IT MATTERS?
 Good preprocessing helps produce cleaner inputs, better retrieval, more reliable model behavior, and fewer downstream errors.
