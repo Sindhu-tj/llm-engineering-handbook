@@ -40,6 +40,7 @@ Continuous Improvement
 REAL WORLD EXAMPLE:
 
 CHATGPT
+
 User Prompt
       │
       ▼
