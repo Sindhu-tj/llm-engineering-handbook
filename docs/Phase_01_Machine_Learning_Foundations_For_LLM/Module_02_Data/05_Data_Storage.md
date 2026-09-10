@@ -18,6 +18,7 @@ Processing / Retrieval
 AI / LLM Application
 
 COMMON TYPES OF DATA STORAGE
+
                     DATA STORAGE
                          │
           ┌──────────────┼──────────────┐
@@ -27,6 +28,7 @@ COMMON TYPES OF DATA STORAGE
        SQL/NoSQL      PDF/DOCX/TXT    Cloud Files
 
 1.DATABASES:
+
 Used mainly for structured and application data.
 
 Examples:
