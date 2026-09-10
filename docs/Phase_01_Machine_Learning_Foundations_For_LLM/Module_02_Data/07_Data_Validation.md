@@ -9,8 +9,9 @@ Schema: Does the data match the expected structure?
 Duplicates: Are unwanted duplicate records present?
 Consistency: Does the data follow the required rules?
 
-PRACTIAL LLM EXAMPLE
+PRACTIAL LLM EXAMPLE:
 Before documents enter an enterprise RAG pipeline:
+
 Collected Documents
         │
         ▼
