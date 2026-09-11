@@ -7,7 +7,7 @@ COMMON COLLECTION METHODS
 4.Web Data       → Web Retrieval / Crawling
 5.Applications   → Logs / Events / User Interactions
 
-BASIC WORKFLOW
+BASIC WORKFLOW:
 
 Data Sources
      │
