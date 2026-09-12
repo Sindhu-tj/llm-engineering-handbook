@@ -25,6 +25,7 @@ Data Processing
 AI / LLM Application
 
 PRACTICAL EXAMPLE:
+
 Consider an enterprise RAG application that uses company documents:
 
 Company Documents
