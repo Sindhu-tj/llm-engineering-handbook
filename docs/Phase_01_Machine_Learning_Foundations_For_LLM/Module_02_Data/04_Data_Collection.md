@@ -1,6 +1,7 @@
 Data collection is the process of gathering relevant data from different sources and bringing it into a system for further processing, storage, analysis, or use by AI/LLM applications.
 
 COMMON COLLECTION METHODS:
+
 1.Database       → SQL Query / Database Connector
 2.API            → API Request
 3.Files          → File Upload / File Reader
