@@ -8,7 +8,7 @@ A practical and interview-focused handbook for learning **Large Language Models 
 
 This handbook is designed to build a strong understanding of LLM Engineering through;
 
-- Core AI and Machine Learning concepts
+- Core AI and Machine Learning concepts.
 - Data and data pipelines
 - Transformers and Attention
 - Large Language Models.
