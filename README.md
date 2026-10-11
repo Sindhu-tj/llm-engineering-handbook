@@ -10,7 +10,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 
 - Core AI and Machine Learning concepts.
 - Data and data pipelines.
-- Transformers and Attention
+- Transformers and Attention.l;
 - Large Language Models.
 - Prompt Engineering
 - Embeddings and Vector Databases
