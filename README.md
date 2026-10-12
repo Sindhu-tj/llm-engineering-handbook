@@ -20,7 +20,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - AI Agents
 - LLM Application Development
 - Production and Deployment
-- LLM Engineering best practices
+- LLM Engineering best practices.
 - Interview-oriented concepts.
 
 The goal is to connect **theoretical foundations with practical engineering concepts** used in real-world AI systems.
