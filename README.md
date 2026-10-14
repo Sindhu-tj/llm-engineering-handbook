@@ -15,7 +15,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Prompt Engineering
 - Embeddings and Vector Databases
 - Retrieval-Augmented Generation (RAG)
-- Fine-Tuning
+- Fine-Tuning.
 - LLM Evaluation
 - AI Agents
 - LLM Application Development
