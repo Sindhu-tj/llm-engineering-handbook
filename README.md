@@ -14,7 +14,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Large Language Models.
 - Prompt Engineering
 - Embeddings and Vector Databases.
-- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG).
 - Fine-Tuning.
 - LLM Evaluation
 - AI Agents
