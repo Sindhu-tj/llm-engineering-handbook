@@ -12,7 +12,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Data and data pipelines.
 - Transformers and Attention.
 - Large Language Models.
-- Prompt Engineering
+- Prompt Engineering.
 - Embeddings and Vector Databases.
 - Retrieval-Augmented Generation (RAG).
 - Fine-Tuning.
