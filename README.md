@@ -17,7 +17,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Retrieval-Augmented Generation (RAG).
 - Fine-Tuning.
 - LLM Evaluation.
-- AI Agents
+- AI Agents.
 - LLM Application Development
 - Production and Deployment
 - LLM Engineering best practices.
