@@ -19,7 +19,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - LLM Evaluation.
 - AI Agents.
 - LLM Application Development
-- Production and Deployment
+- Production and Deployment.
 - LLM Engineering best practices.
 - Interview-oriented concepts.
 
