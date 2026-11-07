@@ -18,7 +18,7 @@ This handbook is designed to build a strong understanding of LLM Engineering thr
 - Fine-Tuning.
 - LLM Evaluation.
 - AI Agents.
-- LLM Application Development
+- LLM Application Development.
 - Production and Deployment.
 - LLM Engineering best practices.
 - Interview-oriented concepts.
