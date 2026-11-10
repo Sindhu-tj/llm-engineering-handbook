@@ -36,7 +36,7 @@ Data Fundamentals
         ↓
 Data Processing
         ↓
-Deep Learning Fundamentals
+Deep Learning Fundamentals.
         ↓
 Transformers
         ↓
