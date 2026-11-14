@@ -32,7 +32,7 @@ The handbook follows a progressive structure;
 
 AI / ML Fundamentals.
         ↓
-Data Fundamentals
+Data Fundamentals.
         ↓
 Data Processing
         ↓
