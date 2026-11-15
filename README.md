@@ -34,7 +34,7 @@ AI / ML Fundamentals.
         ↓
 Data Fundamentals.
         ↓
-Data Processing
+Data Processing.
         ↓
 Deep Learning Fundamentals.
         ↓
