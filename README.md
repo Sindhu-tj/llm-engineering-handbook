@@ -38,7 +38,7 @@ Data Processing.
         ↓
 Deep Learning Fundamentals.
         ↓
-Transformers
+Transformers.
         ↓
 Attention Mechanism
         ↓
