@@ -40,7 +40,7 @@ Deep Learning Fundamentals.
         ↓
 Transformers.
         ↓
-Attention Mechanism
+Attention Mechanism.
         ↓
 Large Language Models
         ↓
