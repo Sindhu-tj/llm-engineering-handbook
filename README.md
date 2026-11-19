@@ -46,7 +46,7 @@ Large Language Models
         ↓
 Prompt Engineering
         ↓
-   Embeddings
+   Embeddings.
         ↓
 Vector Databases
         ↓
