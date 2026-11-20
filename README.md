@@ -44,7 +44,7 @@ Attention Mechanism.
         ↓
 Large Language Models
         ↓
-Prompt Engineering
+Prompt Engineering.
         ↓
    Embeddings.
         ↓
