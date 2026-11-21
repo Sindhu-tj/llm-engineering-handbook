@@ -48,7 +48,7 @@ Prompt Engineering.
         ↓
    Embeddings.
         ↓
-Vector Databases
+Vector Databases.
         ↓
        RAG
         ↓
