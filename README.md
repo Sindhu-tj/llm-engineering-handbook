@@ -42,7 +42,7 @@ Transformers.
         ↓
 Attention Mechanism.
         ↓
-Large Language Models
+Large Language Models.
         ↓
 Prompt Engineering.
         ↓
